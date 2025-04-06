@@ -1,2 +1,10 @@
-pydantic==2.11.2
-typing-inspection==0.4.0
+streamlit
+pandas
+uuid
+chromadb
+langchain
+langchain-community
+langchain-core
+langchain-groq
+python-dotenv
+pydantic>=2.0
